@@ -1,3 +1,7 @@
+# TC => O(n)
+# SC => O(1)
+
+
 def fun (arr):
     n = len(arr)
 
